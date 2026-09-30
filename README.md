@@ -6,7 +6,7 @@
 
 # Hi, I'm Sohaib 👋
 
-**AI Engineer · Computer Science Student at [ENSIA](https://www.ensia.edu.dz) · Co-Founder of [BE-NEXT](#)**
+**AI Engineer · Graduate of [ENSIA](https://www.ensia.edu.dz) · Co-Founder of [BE-NEXT](#)**
 
 I build practical AI systems that connect **models, data, software, and business problems**,<br>
 and I care about making them reliable enough to create real value, not just a good demo.
@@ -23,7 +23,7 @@ and I care about making them reliable enough to create real value, not just a go
 ## 🧠 About Me
 
 - 🚀 Co-founding **BE-NEXT**, an AI & automation agency that helps businesses find where AI creates value and turns it into working systems
-- 🎓 Final-year project at **ENSIA** on Enterprise AI, LLMs, and AI agents
+- 🎓 AI Engineer graduated from **ENSIA** (National Higher School of Artificial Intelligence, Algiers), with a final-year project on Enterprise AI, LLMs, and AI agents
 - 🛠️ Building with LLMs, RAG, agents, APIs, data pipelines, and automation
 - ✍️ Writing about the gap between what AI can do and how organizations actually use it
 - 💬 Ask me about **RAG, AI agents, context engineering, or AI for business**
