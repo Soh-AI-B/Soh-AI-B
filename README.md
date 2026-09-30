@@ -1,230 +1,129 @@
-<!-- ======================= HEADER ======================= -->
+<!-- Replace every Soh-AI-B, sohaib-mousselmal-136b03243, sohaib.mousselmal@gmail.com and # link before publishing -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=1000&color=1E75BC&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Builder+%7C+Problem+Solver;Building+AI+systems+for+real-world+problems;LLMs+%7C+RAG+%7C+AI+Agents+%7C+Automation;Co-Founder+%40+BE-NEXT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&duration=3000&pause=1000&color=1E75BC&center=true&vCenter=true&width=700&lines=AI+Engineer+%C2%B7+Builder+%C2%B7+Problem+Solver;LLMs+%C2%B7+RAG+%C2%B7+AI+Agents+%C2%B7+Automation;Co-Founder+%40+BE-NEXT" alt="AI Engineer · Builder · Problem Solver" />
 
-<br>
+# Hi, I'm Sohaib 👋
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square" />
-</a>
-&nbsp;
-<a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-Explore-1E75BC?style=flat-square" />
-</a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=1E75BC&style=flat-square" />
+**AI Engineer · Computer Science Student at [ENSIA](https://www.ensia.edu.dz) · Co-Founder of [BE-NEXT](#)**
+
+I build practical AI systems that connect **models, data, software, and business problems**,<br>
+and I care about making them reliable enough to create real value, not just a good demo.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-mousselmal-136b03243)
+[![Email](https://img.shields.io/badge/Email-1E75BC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaib.mousselmal@gmail.com)
+[![BE-NEXT](https://img.shields.io/badge/BE--NEXT-253B74?style=for-the-badge&logo=rocket&logoColor=white)](#)
+![Profile views](https://komarev.com/ghpvc/?username=Soh-AI-B&label=Profile%20views&color=1E75BC&style=for-the-badge)
 
 </div>
 
-<br>
-
-<!-- ======================= INTRO ======================= -->
-
-<h1 align="center">
-  Hi 👋, I'm Sohaib
-</h1>
-
-<h3 align="center">
-  AI Engineer · Computer Science Student at ENSIA · Co-Founder at BE-NEXT
-</h3>
-
-<p align="center">
-  I build practical AI systems that connect <b>models, data, software, and business problems</b>.
-</p>
-
-<p align="center">
-  My focus is not just on making AI work in a demo — 
-  it's on understanding the problem, designing the right system,
-  and building something reliable enough to create real value.
-</p>
-
-<br>
-
-<!-- ======================= ABOUT ======================= -->
-
-## 🧠 What I Work On
-
-AI Engineering
-├── Large Language Models
-├── Retrieval-Augmented Generation
-├── AI Agents & Tool Use
-├── Context Engineering
-├── AI Workflows & Automation
-├── Enterprise AI Systems
-├── Evaluation, Reliability & Guardrails
-└── AI × Business Problem Solving
-
-Software Engineering
-├── Backend & APIs
-├── Full-Stack Applications
-├── Data Pipelines
-├── Databases
-├── System Architecture
-└── Production Deployment
-
-Currently
-
-🔭 Building BE-NEXT — AI & Automation for businesses
-
-🎓 Final Year Project at ENSIA — Enterprise AI / LLMs / AI Agents
-
-🧠 Exploring AI systems beyond the model
-
-🛠️ Building with LLMs, RAG, Agents, APIs, data and automation
-
-✍️ Sharing ideas about AI, engineering, business and technology
-
-
-
 ---
 
-🚀 BE-NEXT
+## 🧠 About Me
 
-<div align="center">AI that solves real problems — not just impressive demos.
+- 🚀 Co-founding **BE-NEXT**, an AI & automation agency that helps businesses find where AI creates value and turns it into working systems
+- 🎓 Final-year project at **ENSIA** on Enterprise AI, LLMs, and AI agents
+- 🛠️ Building with LLMs, RAG, agents, APIs, data pipelines, and automation
+- ✍️ Writing about the gap between what AI can do and how organizations actually use it
+- 💬 Ask me about **RAG, AI agents, context engineering, or AI for business**
 
-</div>BE-NEXT is an AI & Automation agency focused on helping businesses understand where AI creates value, then turning those opportunities into practical systems.
-
-My work sits at the intersection of:
-
-Business Problems → Data → AI → Software → Automation → Value
-
-
----
-
-🧩 My Engineering Philosophy
-
-> Business objectives before technology.
-Problem understanding before implementation.
-Data before model hype.
-Systems before demos.
-Value before complexity.
-
-
-
-I believe an AI model is only one component of an intelligent system.
-
-The real engineering challenge is often everything around it:
-
-Context · Data · Tools · Permissions · Workflows · Memory · Evaluation · Reliability
-
-
----
-
-🛠️ Tech Stack
-
-AI / Machine Learning
-
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" title="Python"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="42" height="42" title="PyTorch"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="42" height="42" title="TensorFlow"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="42" height="42" title="OpenCV"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42" height="42" title="Pandas"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" title="Scikit-learn"/></p>LLMs · RAG · AI Agents · Prompting · Context Engineering · Embeddings · Vector Search · AI Automation
-
-
----
-
-Backend & Data
-
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" title="Node.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="42" height="42" title="NestJS"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="42" height="42" title="Flask"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" title="PostgreSQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="42" height="42" title="MongoDB"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" title="MySQL"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" width="42" height="42" title="Firebase"/></p>
----
-
-Frontend & Mobile
-
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" title="TypeScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" title="JavaScript"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" title="React"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" title="Next.js"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="42" height="42" title="Flutter"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="42" height="42" title="Dart"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="42" height="42" title="Tailwind CSS"/></p>
----
-
-Infrastructure & Tools
-
-<p align="left"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" title="Docker"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" title="Linux"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" title="Git"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" height="42" title="Postman"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="42" height="42" title="Figma"/></p>
----
-
-📌 Featured Areas
+## 🏗️ What I Build
 
 <table>
 <tr>
-<td width="50%">🤖 Enterprise AI
+<td width="50%" valign="top">
 
-Building AI systems around real business workflows.
-
-LLMs · RAG · Agents · Context · Data · Tools
-
-</td><td width="50%">⚙️ AI Automation
-
-Turning repetitive processes into intelligent workflows.
-
-APIs · Agents · Integrations · Automation
+### 🤖 Enterprise AI
+AI systems built around real business workflows.<br>
+<sub>LLMs · RAG · Agents · Context Engineering · Evaluation · Guardrails</sub>
 
 </td>
-</tr><tr>
-<td width="50%">🏗️ Software Systems
+<td width="50%" valign="top">
 
-Designing the infrastructure that makes AI useful in production.
+### ⚙️ AI Automation
+Turning repetitive processes into intelligent workflows.<br>
+<sub>Agents · Tool Use · APIs · Integrations</sub>
 
-Backend · Databases · APIs · Architecture
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</td><td width="50%">💡 AI × Business
+### 🧱 Software Systems
+The infrastructure that makes AI useful in production.<br>
+<sub>Backend · APIs · Databases · Data Pipelines · Deployment</sub>
 
-Understanding the problem before choosing the technology.
+</td>
+<td width="50%" valign="top">
 
-Strategy · Processes · Data · Value
+### 💡 AI × Business
+Understanding the problem before choosing the technology.<br>
+<sub>Strategy · Processes · Data · Value</sub>
 
 </td>
 </tr>
 </table>
----
 
-📊 GitHub Activity
+## 🧩 Engineering Philosophy
 
-<div align="center"><img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" /><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&langs_count=8&theme=transparent" /></div><br><div align="center"><img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent" /></div>
----
+> **Business objectives** before technology.<br>
+> **Problem understanding** before implementation.<br>
+> **Data** before model hype.<br>
+> **Systems** before demos.<br>
+> **Value** before complexity.
 
-📈 Contribution Graph
+A model is only one component of an intelligent system. The real engineering work is everything around it:
+**context, data, tools, permissions, workflows, memory, evaluation, and reliability.**
 
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&hide_border=true&area=true&bg_color=00000000&color=1E75BC&line=1E75BC&point=253B74" width="95%" /></div>
----
+## 🛠️ Tech Stack
 
-🐍 Contributions
+**AI / ML**<br>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&perline=10" alt="AI/ML stack" /><br>
+<sub>LLMs · RAG · AI Agents · Embeddings · Vector Search · Pandas · Prompt & Context Engineering</sub>
 
-<div align="center"><img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" /></div>
----
+**Backend & Data**<br>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,flask,postgres,mongodb,mysql,firebase&perline=10" alt="Backend and data stack" />
 
-🌍 Beyond Code
+**Frontend & Mobile**<br>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,flutter,dart&perline=10" alt="Frontend and mobile stack" />
 
-I enjoy exploring the intersection of:
+**Infrastructure & Tools**<br>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,postman,figma&perline=10" alt="Infrastructure and tools" />
 
-Artificial Intelligence · Business · Product · Design Thinking · Education · Entrepreneurship
+## 📌 Featured Projects
 
-I also write about AI and technology, especially the gap between what AI can do and how organizations can actually use it well.
+<!-- Replace with your 3–4 best projects, and pin the same repos on your profile -->
 
+| Project | Description | Stack |
+|---|---|---|
+| [**Project One**](#) | One sentence on the problem it solves and the result. | `Python` `LLMs` `RAG` |
+| [**Project Two**](#) | One sentence on the problem it solves and the result. | `NestJS` `PostgreSQL` |
+| [**Project Three**](#) | One sentence on the problem it solves and the result. | `Agents` `APIs` |
 
----
+## 📊 GitHub Stats
 
-📫 Let's Connect
+<div align="center">
 
-<div align="center"><a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></div><br><div align="center">Building AI that works beyond the demo.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Soh-AI-B&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=transparent&title_color=1E75BC&icon_color=1E75BC" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soh-AI-B&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=1E75BC" alt="Top languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Soh-AI-B/Soh-AI-B/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Soh-AI-B/Soh-AI-B/output/github-snake.svg" alt="Contribution snake animation" />
+</picture>
 
 </div>
-```
+
+## 📫 Let's Connect
+
+I'm open to collaborations, AI projects, and conversations about AI in business.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sohaib-mousselmal-136b03243)
+[![Email](https://img.shields.io/badge/Email-Say%20Hi-1E75BC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohaib.mousselmal@gmail.com)
+
+<sub><i>Building AI that works beyond the demo.</i></sub>
+
+</div>
