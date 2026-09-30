@@ -97,10 +97,11 @@ A model is only one component of an intelligent system. The real engineering wor
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Project One**](#) | One sentence on the problem it solves and the result. | `Python` `LLMs` `RAG` |
-| [**Project Two**](#) | One sentence on the problem it solves and the result. | `NestJS` `PostgreSQL` |
-| [**Project Three**](#) | One sentence on the problem it solves and the result. | `Agents` `APIs` |
-
+| [**DataRay**](#) | AI analytics platform for managers and non-technical decision-makers. Connect a SQL Server database, chat with your data and local files in natural language, and schedule background reports. Runs fully on-premise, so your data never leaves your machine. | `LLMs` `ETL` `FYP` |
+| [**Flash Frame**](#) | A portfolio and social platform built for photographers and videographers. Creators share their work in a feed organized by categories, giving visual artists a dedicated space to showcase and discover work. | `Flutter` |
+| [**NovoHistorians**](#) | Gamified history-learning app for Algerian students from primary school to university. An AI assistant generates quizzes and flashcards and helps students study, turning history into an engaging experience. | `AI` `Flutter` |
+| [**Project name**](#) | University dashboard connecting students, teachers, and administration in one place to raise problems and share feedback continuously, so issues get solved early instead of piling up until the pedagogical committee meeting. | `NextJS` `TailwindCSS` |
+ 
 ## 📊 GitHub Stats
 
 <div align="center">
